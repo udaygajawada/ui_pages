@@ -1,0 +1,55 @@
+.outerpage{
+    background-color: #eee;
+    width:70%;
+    padding: 2%;
+    margin-left:15%;
+}
+
+h1, .cap{
+    text-align: center;
+    font-family: 'shift', sans-serif;
+}
+
+.picture1{
+    width:99%;
+    margin-left:0.5%;
+    height:auto;
+    position:relative;
+}
+
+.caption{
+    font-size:15px;
+    text-align: center;
+    font-family: 'shift', sans-serif;
+
+}
+
+.inner1{
+    width:90%;
+    height:auto;
+    margin-left: 5%;
+    background-color: white;
+}
+
+.para, .para1{
+    margin-left: 20%;
+    font-family: 'shift', sans-serif;
+    font-size: 22px;
+}
+
+.para1, .f1{
+    margin-left: 22%;
+    font-family: 'shift', sans-serif;
+
+}
+
+.uol{
+    margin-left: 20%;
+    font-family: 'shift', sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+}
+
+a{
+    text-decoration: none;
+}
